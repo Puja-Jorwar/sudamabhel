@@ -1709,7 +1709,7 @@ button, input, select, textarea {
   }
   
   .hero-img {
-    object-position: right center;
+    object-position: 75% center;
   }
   
   .hero-content {
