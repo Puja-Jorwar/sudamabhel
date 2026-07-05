@@ -1708,6 +1708,10 @@ button, input, select, textarea {
     text-align: center;
   }
   
+  .hero-img {
+    object-position: left center;
+  }
+  
   .hero-content {
     margin-left: 0;
   }
